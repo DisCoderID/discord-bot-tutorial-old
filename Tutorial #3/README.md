@@ -1,1 +1,1 @@
-## Migration In Progress
+### tutorial 3 hanya mengilangkan banner, gak ada scriptnya.
