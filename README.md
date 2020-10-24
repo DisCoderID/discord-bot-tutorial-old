@@ -18,7 +18,7 @@
 15. [Tutorial #15](https://youtu.be/8sWAbyhwGsg)
 16. [Tutorial #16](https://youtu.be/-MghJYmv9Gk)
 17. [Tutorial #17](https://youtu.be/pZ0XJrYK-g8)
-18. [Tutorial #18](https://youtu.be/9un7--yHuUo)
+18. [Tutorial #18](https://youtu.be/9un7--yHuUo) `Tutorial bot memakai ERIS`
 19. [Tutorial #19](https://youtu.be/j1e7QSReo5Y)
 
 Penjelasan masing masing tutorial ada di foldernya.
