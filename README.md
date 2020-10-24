@@ -12,6 +12,14 @@
 9.  [Tutorial #9](https://youtu.be/pyaV0aUpkKg)
 10. [Tutorial #10](https://youtu.be/ze3rz9IM_pM)
 11. [Tutorial #11](https://youtu.be/_DWY2i29x-s)
+12. [Tutorial #12](https://youtu.be/rigmqMtWfzM)
+13. [Tutorial #13](https://youtu.be/2OKDX8nPfm8)
+14. [Tutorial #14](https://youtu.be/IcdLLihDLFU)
+15. [Tutorial #15](https://youtu.be/8sWAbyhwGsg)
+16. [Tutorial #16](https://youtu.be/-MghJYmv9Gk)
+17. [Tutorial #17](https://youtu.be/pZ0XJrYK-g8)
+18. [Tutorial #18](https://youtu.be/9un7--yHuUo)
+19. [Tutorial #19](https://youtu.be/j1e7QSReo5Y)
 
 Penjelasan masing masing tutorial ada di foldernya.
 seperti Tutorial #1, dsb.
@@ -19,7 +27,7 @@ seperti Tutorial #1, dsb.
 # Link
 [Donasi Tim](https://saweria.co/clientdev)
 
-[Discord Server](https://discord.gg/6NpEfbM)
+[Discord Server](https://discord.gg/ZeUDd3y)
 
 [YouTube](https://www.youtube.com/channel/UCV6c67PLrgc6CWNzFXiVQSA/)
 
@@ -32,4 +40,4 @@ Dibuat oleh Tim Client Developer:
 
 - Staff #1 -> rayhantech
 - Staff #2 -> rnggadosen._
-- Staff #4 -> Tada
+- Staff #4 -> Katsuhira Agata (Tada)
