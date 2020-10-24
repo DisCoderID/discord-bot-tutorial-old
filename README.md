@@ -40,4 +40,4 @@ Dibuat oleh Tim Client Developer:
 
 - Staff #1 -> rayhantech
 - Staff #2 -> rnggadosen._
-- Staff #4 -> Katsuhira Agata(Tada)
+- Staff #4 -> Katsuhira Agata
