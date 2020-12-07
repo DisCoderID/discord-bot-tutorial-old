@@ -6,7 +6,7 @@ name: "servericon",
   run: async (client, message, args) => {
     
     const embed = new MessageEmbed()
-    .setTitle("**Server Icon**")
+    .setTitle("Server Icon")
     .setColor('#7289da')//colornya bebas kalian bisa Ganti apa aja
   .setImage(message.guild.iconURL({dynamic : true, size: 4096}))
     
