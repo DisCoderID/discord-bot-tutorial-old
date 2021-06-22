@@ -1,5 +1,8 @@
 # discord-bot-tutorial
 
+**OLD VERSION**\
+[Updated version](https://github.com/DisCoderID/discord-bot-tutorial)
+
 ## **__LIST TUTORIAL__**
 1.  [Tutorial #1](https://youtu.be/cVVnDEOdldw)
 2.  [Tutorial #2](https://youtu.be/nRWVHmyHftk) `Tidak disarankan, mending pakai tutorial ke #8`
